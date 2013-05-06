@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Time Application</title>
+<title>Time Application Master</title>
 </head>
 <body>
 <h1>Time Application MVC VOK</h1>

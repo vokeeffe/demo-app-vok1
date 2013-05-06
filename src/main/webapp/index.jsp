@@ -9,5 +9,6 @@
 <body>
 <h1>Time Application MVC VOK</h1>
 Current time: ${time}!
+This is Feature A!
 </body>
 </html>

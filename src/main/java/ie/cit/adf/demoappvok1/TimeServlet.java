@@ -35,7 +35,7 @@ protected void doGet(HttpServletRequest req, HttpServletResponse resp)
 	PrintWriter writer = resp.getWriter();
 	writer.println("<html>");
 	writer.println("<body>");
-	writer.println("Current Time: " + timeService.getCurrentDate());
+	writer.println("Current Time is: " + timeService.getCurrentDate());
 	writer.println("</body>");
 	writer.println("</html>");
 	writer.close();
